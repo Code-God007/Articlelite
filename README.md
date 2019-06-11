@@ -3,6 +3,9 @@ Basic CRUD app created using Node.js and Express with added authenticationfrom P
 # Usage
 ## Installation
 Install the dependencies
+
 $ npm install
+
 Run app
+
 $ npm start
